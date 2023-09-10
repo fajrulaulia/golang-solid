@@ -25,7 +25,7 @@ bisa, Prinsip-prinsip SOLID dapat diterapkan dalam bahasa pemrograman golang sep
 
 bisa diikutin dengan link sebagai berikut:
 1. [Single Responsibility Principle (SRP)](./srp/)
-2. [Open/Closed Principle (OCP) ](./ocp) WIP
+2. [Open/Closed Principle (OCP) ](./ocp)
 3. [Liskov Substitution Principle (LSP)](./lsp) WIP
 4. [Interface Segregation Principle (ISP)](./isp) WIP
 5. [Dependency Inversion Principle (DIP)](./dip) WIP
